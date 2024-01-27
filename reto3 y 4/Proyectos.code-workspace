@@ -1,0 +1,37 @@
+{
+  "folders": [
+	{
+		"path": "../../../../Proyectos"
+	},
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../DIA 2"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "../reto1"
+	},
+	{
+		"path": "../reto2"
+	},
+	{
+		"path": "../reto2/css"
+	},
+	{
+		"path": "../../../HTML5"
+	},
+	{
+		"path": "../../../../Teroria"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Temario"
+  }
+}
